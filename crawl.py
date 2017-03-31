@@ -62,7 +62,7 @@ for sp in stats_cur:
 artist_cur = soup(class_="chart-row__artist")
 artist=[]
 for sp in artist_cur:
-    artist.append(sp.text.strip())
+    artist.append(sp.text.strip().replace(',',' '))
 
 data = zip(rank, song, lastrank, peak, weeks, artist)
 

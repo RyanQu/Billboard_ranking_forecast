@@ -1,0 +1,101 @@
+rank,artist_name,last_week,peak_position,wks_on_rank,date
+1, Drake ,1,1,144, 4/15/2017
+2, Ed Sheeran ,2,1,138, 4/15/2017
+3, Bruno Mars ,3,1,132, 4/15/2017
+4, The Chainsmokers ,6,1,70, 4/15/2017
+5, Metallica ,14,2,94, 4/15/2017
+6, The Weeknd ,5,1,129, 4/15/2017
+7, Trey Songz ,120,1,68, 4/15/2017
+8, Future ,7,1,89, 4/15/2017
+9, Rihanna ,9,2,140, 4/15/2017
+10, Adele ,11,1,113, 4/15/2017
+11, Shawn Mendes ,10,1,112, 4/15/2017
+12, Migos ,12,1,25, 4/15/2017
+13, Sam Hunt ,15,1,137, 4/15/2017
+14, Alessia Cara ,16,1,82, 4/15/2017
+15, Kendrick Lamar ,75,1,115, 4/15/2017
+16, twenty one pilots ,18,1,102, 4/15/2017
+17, Rick Ross ,4,4,5, 4/15/2017
+18, Big Sean ,17,1,86, 4/15/2017
+19, Maroon 5 ,19,1,144, 4/15/2017
+20, Ariana Grande ,21,1,142, 4/15/2017
+21, Katy Perry ,24,6,138, 4/15/2017
+22, Justin Bieber ,13,1,143, 4/15/2017
+23, Lady Gaga ,26,1,44, 4/15/2017
+24, Keith Urban ,28,1,105, 4/15/2017
+25, Zayn ,25,1,49, 4/15/2017
+26, Taylor Swift ,20,1,140, 4/15/2017
+27, BTS ,23,1,25, 4/15/2017
+28, Kodak Black ,27,1,13, 4/15/2017
+29, James Arthur ,29,1,13, 4/15/2017
+30, Luke Bryan ,31,1,143, 4/15/2017
+31, Lil Uzi Vert ,62,1,39, 4/15/2017
+32, RaeLynn ,120,1,3, 4/15/2017
+33, Clean Bandit ,30,1,30, 4/15/2017
+34, Coldplay ,36,4,96, 4/15/2017
+35, Rae Sremmurd ,32,1,108, 4/15/2017
+36, Jon Pardi ,38,1,24, 4/15/2017
+37, Khalid ,42,28,4, 4/15/2017
+38, Imagine Dragons ,35,2,112, 4/15/2017
+39, Justin Timberlake ,37,5,98, 4/15/2017
+40, Brett Young ,50,1,17, 4/15/2017
+41, Marian Hill ,34,1,11, 4/15/2017
+42, Florida Georgia Line ,44,1,144, 4/15/2017
+43, Julia Michaels ,45,1,8, 4/15/2017
+44, Eminem ,48,1,144, 4/15/2017
+45, Chris Brown ,59,1,138, 4/15/2017
+46, Post Malone ,47,1,40, 4/15/2017
+47, Travis Scott ,43,1,55, 4/15/2017
+48, Selena Gomez ,39,1,120, 4/15/2017
+49, Jason Aldean ,52,1,135, 4/15/2017
+50, Little Big Town ,41,1,63, 4/15/2017
+51, J. Cole ,51,1,103, 4/15/2017
+52, Sia ,46,1,144, 4/15/2017
+53, Gorillaz ,120,1,1, 4/15/2017
+54, Blake Shelton ,57,1,144, 4/15/2017
+55, Nicki Minaj ,55,1,134, 4/15/2017
+56, KYLE ,58,56,10, 4/15/2017
+57, Gucci Mane ,49,1,25, 4/15/2017
+58, John Legend ,53,1,98, 4/15/2017
+59, Panic! At The Disco ,70,1,71, 4/15/2017
+60, Michael Jackson ,63,1,112, 4/15/2017
+61, Josh Turner ,68,1,3, 4/15/2017
+62, Train ,65,1,15, 4/15/2017
+63, Brantley Gilbert ,60,1,50, 4/15/2017
+64, Thomas Rhett ,74,1,113, 4/15/2017
+65, Beyonce ,54,2,142, 4/15/2017
+66, Zedd ,69,1,32, 4/15/2017
+67, Paul McCartney ,120,37,14, 4/15/2017
+68, Dierks Bentley ,81,1,77, 4/15/2017
+69, Daft Punk ,66,1,28, 4/15/2017
+70, Calvin Harris ,67,1,105, 4/15/2017
+71, Lorde ,64,1,42, 4/15/2017
+72, Kelsea Ballerini ,89,1,48, 4/15/2017
+73, Tim McGraw ,120,10,111, 4/15/2017
+74, Childish Gambino ,83,1,31, 4/15/2017
+75, Linkin Park ,56,49,15, 4/15/2017
+76, Carrie Underwood ,77,3,131, 4/15/2017
+77, Shakira ,95,1,30, 4/15/2017
+78, Steel Panther ,120,1,1, 4/15/2017
+79, Kygo ,79,1,7, 4/15/2017
+80, Eric Church ,80,1,137, 4/15/2017
+81, DJ Snake ,72,1,98, 4/15/2017
+82, Zac Brown Band ,120,1,104, 4/15/2017
+83, Lil Yachty ,84,1,32, 4/15/2017
+84, Luke Combs ,78,1,4, 4/15/2017
+85, Kenny Chesney ,96,2,111, 4/15/2017
+86, Auli'i Cravalho ,76,1,6, 4/15/2017
+87, Cole Swindell ,99,1,121, 4/15/2017
+88, DJ Khaled ,88,1,40, 4/15/2017
+89, Machine Gun Kelly ,61,1,19, 4/15/2017
+90, Chris Stapleton ,94,1,75, 4/15/2017
+91, P!nk ,90,16,63, 4/15/2017
+92, Niall Horan ,85,1,27, 4/15/2017
+93, Meghan Trainor ,93,1,140, 4/15/2017
+94, The Lumineers ,120,1,46, 4/15/2017
+95, Lauren Alaina ,120,1,2, 4/15/2017
+96, Charlie Puth ,120,1,99, 4/15/2017
+97, Luis Fonsi ,91,1,2, 4/15/2017
+98, Martin Garrix ,120,1,6, 4/15/2017
+99, Michael Ray ,87,57,9, 4/15/2017
+100, Boondox ,120,1,1, 4/15/2017
